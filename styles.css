@@ -43,3 +43,12 @@ a {
     font-size: 18px;
     color: #F9FAF8;
 }
+
+.button {
+    background-color: #388EF6;
+    color: #F9FAF8;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 24px;
+    font-weight: bolder;
+}
