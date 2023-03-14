@@ -7,6 +7,7 @@ body {
 
 .section1 {
     background-color: #1F2937;
+    padding: 0 200px;
 }
 
 .logo {
@@ -18,7 +19,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 200px;
 }
 
 ul {
@@ -31,4 +31,10 @@ a {
     text-decoration: none;
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
 }
