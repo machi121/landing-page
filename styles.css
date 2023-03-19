@@ -8,9 +8,6 @@ body {
 .section1 {
     background-color: #1F2937;
     padding: 0 200px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
 }
 
 .logo {
@@ -61,6 +58,7 @@ a {
     justify-content: space-between;
     gap: 150px;
     align-items: center;
+    padding: 120px 0;
 }
 
 .hero img {
