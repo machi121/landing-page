@@ -76,3 +76,9 @@ a {
     color: #1F2937;
     text-align: center;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
