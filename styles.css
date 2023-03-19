@@ -75,10 +75,15 @@ a {
     font-weight: bolder;
     color: #1F2937;
     text-align: center;
+    margin: 64px;
 }
 
 .container {
     display: flex;
     justify-content: center;
     gap: 52px;
+}
+
+.info img {
+    max-width: 200px;
 }
