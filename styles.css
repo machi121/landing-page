@@ -84,6 +84,11 @@ a {
     gap: 52px;
 }
 
-.info img {
+.info {
     max-width: 200px;
+    margin-bottom: 128px;
+}
+
+.info img {
+    width: 200px;
 }
