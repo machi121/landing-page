@@ -129,3 +129,11 @@ a {
 .text2 {
     color: #E5E7EB;
 }
+
+.button2 {
+    background-color: #388EF6;
+    color: #E5E7EB;
+    padding: 0px 40px;
+    font-weight: bolder;
+    border-radius: 10px;
+}
