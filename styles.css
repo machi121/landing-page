@@ -1,3 +1,20 @@
+/* Font Imports */
+
+/* Regular Weight */
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(./fonts/Roboto/Roboto-Regular.ttf);
+}
+
+/* Light Weight */
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(./fonts/Roboto/Roboto-LightItalic.ttf);
+    font-weight: 100;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
