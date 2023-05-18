@@ -116,7 +116,7 @@ a {
     background-color: #388EF6;
     margin: 200px 200px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     padding: 50px 0px;
 }
 
