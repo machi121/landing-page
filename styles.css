@@ -142,3 +142,7 @@ a {
 p {
     color: #1F2937;
 }
+
+.info img {
+    border-radius: 7px;
+}
