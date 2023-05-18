@@ -93,6 +93,7 @@ a {
 
 .section3 {
     background-color: #E5E7EB;
+    color: #1F2937;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -103,7 +104,6 @@ a {
     font-size: 36px;
     font-weight: 100;
     font-style: italic;
-    color: #1F2937;
 }
 
 .name {
