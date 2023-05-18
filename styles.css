@@ -108,4 +108,5 @@ a {
 
 .name {
     align-self: flex-end;
+    font-weight: bolder;
 }
