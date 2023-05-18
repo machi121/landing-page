@@ -112,5 +112,5 @@ a {
 }
 
 .call-to-action {
-    
+    display: flex;
 }
