@@ -7,11 +7,11 @@
     src: url(./fonts/Roboto/Roboto-Regular.ttf);
 }
 
-/* Light Weight */
+/* Thin Weight */
 
 @font-face {
     font-family: 'Roboto';
-    src: url(./fonts/Roboto/Roboto-LightItalic.ttf);
+    src: url(./fonts/Roboto/Roboto-ThinItalic.ttf);
     font-weight: 100;
 }
 
@@ -116,12 +116,13 @@ a {
     flex-direction: column;
     align-items: center;
     padding: 200px 500px;
+    gap: 30px;
 }
 
 .quote {
     font-size: 36px;
-    font-weight: lighter;
-    font-style: italic;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
 }
 
 .name {
